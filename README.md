@@ -1,3 +1,3 @@
-# PythonChallenge
+# PythonChalleng
 
-Some Practice Problems from LinkedIn learning.
+Practice problems from LinkedIn learning.
